@@ -8,4 +8,4 @@ Los lenguajes de programación que he utilizado son C#, java, HTML.💻
 
 -Soy Estudiante del Instituto Tecnologico de Tijuana.  
 
-![imagen ](https://github.com/Abraham0925/Abraham0925/assets/133905456/8459b3a8-ccb3-49b5-92b6-0695e1bebc3d)
+
