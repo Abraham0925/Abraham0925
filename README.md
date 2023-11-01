@@ -8,6 +8,8 @@ Los lenguajes de programación que he utilizado son C#, java, HTML.💻
 
 -Soy Estudiante del Instituto Tecnologico de Tijuana.  -->
 
+#Resumen Capitulos 3, 4 y 5.
+
 ## Capítulo 3: Subrutinas y paso de parámetros
 
 En este capítulo se aborda el uso de subrutinas y el paso de parámetros en el lenguaje ensamblador. Se explica el funcionamiento de la pila y las instrucciones ldm/stm para el manejo de la pila. También se introduce la Convención AAPCS, que establece las reglas para el paso de parámetros entre subrutinas.
